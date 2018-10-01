@@ -1,0 +1,17 @@
+{
+  "name": "cwiczenie",
+  "version": "1.0.0",
+  "description": "proste-cwiczenia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cwicz"
+  ],
+  "author": "gs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
